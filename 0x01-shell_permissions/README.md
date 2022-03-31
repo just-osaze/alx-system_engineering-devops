@@ -13,7 +13,7 @@
    Group: no permission at all
 
    Other users: all the permissions (chmod 007)
-9.
+9. A script that sets the mode of the file hello to this:-rwxr-x-wx (chmod 753 hello)
 10.
 11.
 12.
