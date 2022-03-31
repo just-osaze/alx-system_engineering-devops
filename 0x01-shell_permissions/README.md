@@ -5,6 +5,6 @@
 3. Change the owner of a file to betty (chown betty hello)
 4. Script that creates an empty file 'hello' (touch hello)
 5. script that adds execute permission to the owner of the file hello (chmod u+x hello)
-6.
+6. Script that add execute permissions to file owner and group and give others read permission
 7.
 8.
