@@ -12,7 +12,7 @@
 
    Group: no permission at all
 
-   Other users: all the permissions (chmod o+rwx)
+   Other users: all the permissions (chmod 007)
 9.
 10.
 11.
