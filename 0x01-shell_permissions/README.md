@@ -6,5 +6,9 @@
 4. Script that creates an empty file 'hello' (touch hello)
 5. script that adds execute permission to the owner of the file hello (chmod u+x hello)
 6. Script that add execute permissions to file owner and group and give others read permission(chmod u+x,g+x,o+r)
-7.
+7. A script that adds execution permission to the owner, the group owner and the other users, to the file hello (chmod ugo+x)
 8.
+9.
+10.
+11.
+12.
