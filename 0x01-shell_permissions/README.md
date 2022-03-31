@@ -18,6 +18,6 @@
     The file hello will be in the working directory
 
     The file olleh will be in the working directory (sudo chmod --reference=oleh hello)
-11. A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other    users. Regular files should not be changed. (chmod a+x *)
-12.
+11. A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other      users. Regular files should not be changed. (chmod a+x *)
+12. A script that creates a directory called my_dir with permissions 751 in the working directory. (mkdir -m 751 my_dir)
 13.
