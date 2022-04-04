@@ -8,5 +8,5 @@
 6. A script that displays the third line of the file iacta (cat iacta | head -3 | tail -1)
 7.
 8. A script that writes into the file ls_cwd_content the result of the command ls -la (ls la > ls_cwd_content)
-9.
+9. A script that duplicates the last line of the file iacta (tail -n 1 iacta >> iacta)
 10.
