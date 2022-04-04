@@ -11,12 +11,11 @@
 9. A script that duplicates the last line of the file iacta (tail -n 1 iacta >> iacta)
 10. A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. (rm *.js)
 11. A script that counts the number of directories and sub-directories in the current directory. (find . -mindepth 1 -type d | wc -l)
-12. A script that displays the 10 newest files in the current directory (ls -t | head -n 10) 
-13.
-14.
+12. A script that displays the 10 newest files in the current directory. 
+13. Being unique is better than being perfect (sort | uniq -u)
+14. Display lines containing the pattern “root” from the file /etc/passwd (grep "root" /etc/passwd)
 15.
 16.
 17.
 18.
 19.
-20.
