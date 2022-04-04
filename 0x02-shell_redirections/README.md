@@ -1,6 +1,6 @@
 #!/bin/bash
 0. Write a script that prints “Hello, World”, followed by a new line to the standard output (echo -e "Hello, World\n")
-1.
+1. Script that displays a confused smiley (echo "\"(Ôo)'")
 2.
 3.
 4.
