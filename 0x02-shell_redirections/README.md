@@ -9,4 +9,14 @@
 7.
 8. A script that writes into the file ls_cwd_content the result of the command ls -la (ls la > ls_cwd_content)
 9. A script that duplicates the last line of the file iacta (tail -n 1 iacta >> iacta)
-10.
+10. A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. (rm *.js)
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
